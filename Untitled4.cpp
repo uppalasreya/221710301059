@@ -12,6 +12,5 @@ int main()
  
   	else
     	printf("\n Given number %d is Not Divisible by 5 and 11", number);
- 
-  return 0;
+    	return 0;
 }
